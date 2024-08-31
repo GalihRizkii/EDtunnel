@@ -1,11 +1,11 @@
-name = "id2-vless" # todo
+name = "galihh-sgdo" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "id2-vless.bebaspakai.us.kg"
+pattern = "galihh-sgdo.alihvpn.xyz"
 custom_domain = true
 
 [vars]
@@ -15,4 +15,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "deebfbbd-42e5-4506-9b4d-bc08f02e6252"
+UUID = "f42cb0cb-f4b0-470a-adcd-e65c1a4e981d"
